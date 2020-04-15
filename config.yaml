@@ -1,0 +1,18 @@
+log_file: "Y:/mitchell/cml scripts/data/pdf_processor.log"
+ssh_config:
+  key: "C:\\Users\\sgudapati3\\Documents\\priv"
+  hostname: "mitch-lin.neuro.gatech.edu"
+  username: "sgudapati3"
+windows_data_config:
+  pdf_dir: "Y:/mitchell/cml scripts/data/pdfs_cml/"
+  processed_pdf_dir: "Y:/mitchell/cml scripts/data/processed_pdf_cml/"
+  corrupted_pdf_dir: "Y:/mitchell/cml scripts/data/corrupted_pdf_cml/"
+  figures_dir: "Y:/mitchell/cml scripts/data/data_cml/figures/"
+  agg_data_dir: "Y:/mitchell/cml scripts/data/data_cml/"
+linux_data_config:
+  pdf_dir : "/nethome/sgudapati3/pdffigures2/pdfs/"
+  figures_dir: "/nethome/sgudapati3/pdffigures2/figures/"
+  data_dir: "/nethome/sgudapati3/pdffigures2/data/"
+  agg_data_dir: "/nethome/sgudapati3/pdffigures2/"
+  
+
